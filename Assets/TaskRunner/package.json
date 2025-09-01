@@ -1,8 +1,16 @@
 {
   "name": "com.greener-games.global-task-runner",
   "displayName": "Global Task Runner",
-  "description": "Global Task Runner Script",
+  "description": "A lightweight and easy-to-use Task/Coroutine runner for Unity. This utility allows you to run and manage long-running processes (coroutines) without needing a MonoBehaviour instance.",
   "version": "1.0.0",
+  "keywords": [
+    "unity",
+    "coroutine",
+    "task",
+    "async",
+    "runner",
+    "utility"
+  ],
   "unity": "2019.1",
   "license": "MIT",
   "author": {
